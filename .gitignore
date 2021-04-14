@@ -1,3 +1,7 @@
+.idea/
+ingenieria-de-software_test-mvc.iml
+out/
+
 # Compiled class file
 *.class
 
